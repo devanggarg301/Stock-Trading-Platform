@@ -1,0 +1,13 @@
+nodemon
+express
+body-parser : work with api data
+cors : cross origin resource sharing because frontend and backend both are deployed at different url so to communicate between each other
+dotenv : hide database credentials/url
+mongoose : for mongodb
+passport : help for authentication
+passport-local
+passport-local-mongoose
+
+axios - to connect with api
+
+bcrypt, cookie-parser, jsonwebtoken - these 3 for authentication(use bcrypt to hash)
